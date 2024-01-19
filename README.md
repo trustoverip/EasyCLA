@@ -10,5 +10,7 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 You can find [detailed information here](https://trustoverip.org). If you have issues, please email [info@example.org](mailto:info@example.org).
 
-Join a community of individuals and organizations solving the toughest technical and human-centric problems in digital trust. [ToIP Foundation](https://trustoverip.org/get-involved/membership/). 
+Join a community of individuals and organizations solving the toughest technical and human-centric problems in digital trust. [ToIP Foundation](https://trustoverip.org/get-involved/membership/).
+
+This is my PR change
 
